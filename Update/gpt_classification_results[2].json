@@ -1,0 +1,3392 @@
+[
+  {
+    "id": 0,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 1,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 2,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 3,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 4,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 5,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 6,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 7,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 8,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 9,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 10,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 11,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 12,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 13,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 14,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 15,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 16,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 17,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 18,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 19,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 20,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 21,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 22,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 23,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 24,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 25,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 26,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 27,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 28,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 29,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 30,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 31,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 32,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 33,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 34,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 35,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 36,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 37,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 38,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 39,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 40,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 41,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 42,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 43,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 44,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 45,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 46,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 47,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 48,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 49,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 50,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 51,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 52,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 53,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 54,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 55,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 56,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 57,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 58,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 59,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 60,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 61,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 62,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 63,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 64,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 65,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 66,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 67,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 68,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 69,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 70,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 71,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 72,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 73,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 74,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 75,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 76,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 77,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 78,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 79,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 80,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 81,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 82,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 83,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 84,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 85,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 86,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 87,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 88,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 89,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 90,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 91,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 92,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 93,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 94,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 95,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 96,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 97,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 98,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 99,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 100,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 101,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 102,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 103,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 104,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 105,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 106,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 107,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 108,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 109,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 110,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 111,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 112,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 113,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 114,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 115,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 116,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 117,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 118,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 119,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 120,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 121,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 122,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 123,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 124,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 125,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 126,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 127,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 128,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 129,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 130,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 131,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 132,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 133,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 134,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 135,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 136,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 137,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 138,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 139,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 140,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 141,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 142,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 143,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 144,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 145,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 146,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 147,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 148,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 149,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 150,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 151,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 152,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 153,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 154,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 155,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 156,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 157,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 158,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 159,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 160,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 161,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 162,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 163,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 164,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 165,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 166,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 167,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 168,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 169,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 170,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 171,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 172,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 173,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 174,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 175,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 176,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 177,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 178,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 179,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 180,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 181,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 182,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 183,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 184,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 185,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 186,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 187,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 188,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 189,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 190,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 191,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 192,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 193,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 194,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 195,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 196,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 197,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 198,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 199,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 200,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 201,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 202,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 203,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 204,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 205,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 206,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 207,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 208,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 209,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 210,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 211,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 212,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 213,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 214,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 215,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 216,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 217,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 218,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 219,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 220,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 221,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 222,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 223,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 224,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 225,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 226,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 227,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 228,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 229,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 230,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 231,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 232,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 233,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 234,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 235,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 236,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 237,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 238,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 239,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 240,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 241,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 242,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 243,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 244,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 245,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 246,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 247,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 248,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 249,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 250,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 251,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 252,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 253,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 254,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 255,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 256,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 257,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 258,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 259,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 260,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 261,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 262,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 263,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 264,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 265,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 266,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 267,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 268,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 269,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 270,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 271,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 272,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 273,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 274,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 275,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 276,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 277,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 278,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 279,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 280,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 281,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 282,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 283,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 284,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 285,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 286,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 287,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 288,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 289,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 290,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 291,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 292,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 293,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 294,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 295,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 296,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 297,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 298,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 299,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 300,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 301,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 302,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 303,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 304,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 305,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 306,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 307,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 308,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 309,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 310,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 311,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 312,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 313,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 314,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 315,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 316,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 317,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 318,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 319,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 320,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 321,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 322,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 323,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 324,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 325,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 326,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 327,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 328,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 329,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 330,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 331,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 332,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 333,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 334,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 335,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 336,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 337,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 338,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 339,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 340,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 341,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 342,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 343,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 344,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 345,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 346,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 347,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 348,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 349,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 350,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 351,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 352,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 353,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 354,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 355,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 356,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 357,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 358,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 359,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 360,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 361,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 362,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 363,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 364,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 365,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 366,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 367,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 368,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 369,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 370,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 371,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 372,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 373,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 374,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 375,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 376,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 377,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 378,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 379,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 380,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 381,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 382,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 383,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 384,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 385,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 386,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 387,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 388,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 389,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 390,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 391,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 392,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 393,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 394,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 395,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 396,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 397,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 398,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 399,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 400,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 401,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 402,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 403,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 404,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 405,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 406,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 407,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 408,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 409,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 410,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 411,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 412,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 413,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 414,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 415,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 416,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 417,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 418,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 419,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 420,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 421,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 422,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 423,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 424,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 425,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 426,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 427,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 428,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 429,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 430,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 431,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 432,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 433,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 434,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 435,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 436,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 437,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 438,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 439,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 440,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 441,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 442,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 443,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 444,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 445,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 446,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 447,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 448,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 449,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 450,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 451,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 452,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 453,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 454,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 455,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 456,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 457,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 458,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 459,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 460,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 461,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 462,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 463,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 464,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 465,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 466,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 467,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 468,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 469,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 470,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 471,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 472,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 473,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 474,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 475,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 476,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 477,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 478,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 479,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 480,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 481,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 482,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 483,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 484,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 485,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 486,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 487,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 488,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 489,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 490,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 491,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 492,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 493,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 494,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 495,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 496,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 497,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 498,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 499,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 500,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 501,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 502,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 503,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 504,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 505,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 506,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 507,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 508,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 509,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 510,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 511,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 512,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 513,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 514,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 515,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 516,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 517,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 518,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 519,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 520,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 521,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 522,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 523,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 524,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 525,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 526,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 527,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 528,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 529,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 530,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 531,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 532,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 533,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 534,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 535,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 536,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 537,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 538,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 539,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 540,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 541,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 542,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 543,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 544,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 545,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 546,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 547,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 548,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 549,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 550,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 551,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 552,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 553,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 554,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 555,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 556,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 557,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 558,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 559,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 560,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 561,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 562,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 563,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 564,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 565,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 566,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 567,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 568,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 569,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 570,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 571,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 572,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 573,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 574,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 575,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 576,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 577,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 578,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 579,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 580,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 581,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 582,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 583,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 584,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 585,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 586,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 587,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 588,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 589,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 590,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 591,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 592,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 593,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 594,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 595,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 596,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 597,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 598,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 599,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 600,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 601,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 602,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 603,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 604,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 605,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 606,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 607,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 608,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 609,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 610,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 611,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 612,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 613,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 614,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 615,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 616,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 617,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 618,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 619,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 620,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 621,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 622,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 623,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 624,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 625,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 626,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 627,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 628,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 629,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 630,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 631,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 632,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 633,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 634,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 635,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 636,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 637,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 638,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 639,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 640,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 641,
+    "subtopic": "Notifications & Advertising",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 642,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 643,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 644,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 645,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 646,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 647,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 648,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 649,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 650,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 651,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 652,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 653,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 654,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 655,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 656,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 657,
+    "subtopic": "Ease of Booking & Confirmation",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 658,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 659,
+    "subtopic": "Interface & Navigation",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 660,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 661,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 662,
+    "subtopic": "Effective Customer Support",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 663,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 664,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 665,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 666,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 667,
+    "subtopic": "Property & Booking Discrepancies",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 668,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 669,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 670,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 671,
+    "subtopic": "Clear Cancellation Policy",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 672,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 673,
+    "subtopic": "Unexpected Charges & Pricing",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 674,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Positive"
+  },
+  {
+    "id": 675,
+    "subtopic": "App Stability & Performance",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 676,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "id": 677,
+    "subtopic": "Customer Support Issues",
+    "sentiment": "Negative"
+  }
+]
